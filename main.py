@@ -9,7 +9,7 @@ user = GetUserName()
 download_folders = [f'{drive}:\\Users\\{user}\\Downloads',
                     f'{drive}:\\Пользователи\\{user}\\Загрузки']
 
-#  Comment
+#  Comment1
 class Main:
     def __init__(self, folders: list):
         self.folders = folders
